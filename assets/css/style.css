@@ -1,0 +1,62 @@
+
+
+footer li{
+  display: -webkit-inline-flex;
+}
+
+
+/*Font*/
+@font-face {
+  font-family: "Christmas";
+  src: url("../font/miraculous_christmas/Miraculous&Christmas.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: "boots_spurs";
+  src: url("../font/boots_spurs/Boots&Spurs_personal_use_only.ttf") format("truetype")
+}
+@font-face {
+  font-family: "blade_runner";
+  src: url("../font/blade_runner/BLADRMF_.TTF.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: "minecraft";
+  src: url("../font/minecrafter/Minecrafter.Alt.ttf") format("truetype")
+}
+
+@media (max-width: 576px) {
+   .img{
+          width: 100%;
+          display: none;
+ 
+      } 
+
+}
+
+
+@media (max-width: 768px) {
+  .img{
+    width: 100%;
+    
+
+} 
+
+ }
+
+@media (max-width: 992px) {
+  .img{
+    width: 100%;
+    
+
+} 
+
+ }
+
+
+@media (min-width: 1200px) {
+
+
+ }
+
+
